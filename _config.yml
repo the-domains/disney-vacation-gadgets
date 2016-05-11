@@ -1,0 +1,28 @@
+name: Disney Vacation Gadgets
+favicon: null
+layout_spectrum: 0.5497206726577133
+typography_spectrum: 0.4614121541380882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3829575607087463
+  lightness: 0.7123596370220184
+  saturation: 0.8942628307268023
+  rhythmicContrast: 0.6423308609519154
+purpose: []
